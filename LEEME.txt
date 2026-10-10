@@ -1,0 +1,7 @@
+Jarvis te llama - proyecto para generar el APK en GitHub
+
+1. Crea un repositorio nuevo en GitHub y sube TODO el contenido de esta carpeta
+   (incluida la carpeta oculta .github).
+2. Entra a la pestaña Actions. Se ejecuta "Construir APK" sola; tarda unos minutos.
+3. Cuando termine, abre la ejecución y descarga "jarvis-te-llama-apk" (abajo, en Artifacts).
+4. Descomprime el zip y copia app-debug.apk a tu celular para instalarlo.
